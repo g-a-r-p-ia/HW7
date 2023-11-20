@@ -1,0 +1,14 @@
+D:\universityLabs\HomeWork7task3\HomeWork7task3\bin\Debug\net7.0\HomeWork7task3.exe
+D:\universityLabs\HomeWork7task3\HomeWork7task3\bin\Debug\net7.0\HomeWork7task3.deps.json
+D:\universityLabs\HomeWork7task3\HomeWork7task3\bin\Debug\net7.0\HomeWork7task3.runtimeconfig.json
+D:\universityLabs\HomeWork7task3\HomeWork7task3\bin\Debug\net7.0\HomeWork7task3.dll
+D:\universityLabs\HomeWork7task3\HomeWork7task3\bin\Debug\net7.0\HomeWork7task3.pdb
+D:\universityLabs\HomeWork7task3\HomeWork7task3\obj\Debug\net7.0\HomeWork7task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\universityLabs\HomeWork7task3\HomeWork7task3\obj\Debug\net7.0\HomeWork7task3.AssemblyInfoInputs.cache
+D:\universityLabs\HomeWork7task3\HomeWork7task3\obj\Debug\net7.0\HomeWork7task3.AssemblyInfo.cs
+D:\universityLabs\HomeWork7task3\HomeWork7task3\obj\Debug\net7.0\HomeWork7task3.csproj.CoreCompileInputs.cache
+D:\universityLabs\HomeWork7task3\HomeWork7task3\obj\Debug\net7.0\HomeWork7task3.dll
+D:\universityLabs\HomeWork7task3\HomeWork7task3\obj\Debug\net7.0\refint\HomeWork7task3.dll
+D:\universityLabs\HomeWork7task3\HomeWork7task3\obj\Debug\net7.0\HomeWork7task3.pdb
+D:\universityLabs\HomeWork7task3\HomeWork7task3\obj\Debug\net7.0\HomeWork7task3.genruntimeconfig.cache
+D:\universityLabs\HomeWork7task3\HomeWork7task3\obj\Debug\net7.0\ref\HomeWork7task3.dll
